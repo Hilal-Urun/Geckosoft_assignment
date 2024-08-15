@@ -73,6 +73,7 @@ This ensures the application runs consistently across different platforms.
 # HOW TO RUN with Python
 
 - pip install -r requirements.txt
+- (because of the model size is huge i couldnt push the multi task model so, first need to run models/multi_task_learning.py)
 - python main.py
 
 
