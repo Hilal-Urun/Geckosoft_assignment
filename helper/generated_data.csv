@@ -1,0 +1,121 @@
+,review,food_rating,delivery_rating,approval
+0,"I loved the pasta, and the delivery was early.",5,4,1
+1,"I loved the salad, and the delivery was on time.",4,4,0
+2,"Amazing salad, delivered fast!",5,5,0
+3,"The pasta was tasty, and it arrived fast.",5,4,0
+4,"The pasta was soggy, and the delivery was late.",1,1,0
+5,"I loved the pasta, and the delivery was fast.",5,4,0
+6,"I hated the sushi, and the delivery was delayed.",1,2,0
+7,"The salad was bland, and the delivery was cold.",1,1,1
+8,"I loved the pizza, and the delivery was on time.",5,4,0
+9,"The pizza was okay, and the delivery was a bit late.",4,4,0
+10,"The burger was soggy, and the delivery was delayed.",1,2,0
+11,"Terrible sushi, delivered delayed.",1,2,1
+12,"The sushi was okay, and the delivery was a bit late.",4,4,0
+13,"I loved the sushi, and the delivery was early.",5,4,0
+14,The salad was average. The delivery could have been better.,4,3,0
+15,"I hated the pizza, and the delivery was cold.",1,2,1
+16,"I hated the sushi, and the delivery was cold.",2,1,0
+17,"I hated the burger, and the delivery was delayed.",2,2,0
+18,"Amazing burger, delivered fast!",4,5,0
+19,"The sushi was cold, and the delivery was delayed.",1,1,1
+20,"I hated the salad, and the delivery was delayed.",1,2,1
+21,"I hated the burger, and the delivery was delayed.",2,2,1
+22,"The pizza was overcooked, and the delivery was delayed.",2,1,1
+23,"Amazing pizza, delivered fast!",4,4,0
+24,The burger was okay. The delivery could have been better.,4,3,0
+25,"Terrible sushi, delivered cold.",2,2,1
+26,"I hated the salad, and the delivery was cold.",1,1,0
+27,"I loved the sushi, and the delivery was early.",4,5,1
+28,"The burger was okay, and the delivery was slightly delayed.",3,4,0
+29,"I hated the sushi, and the delivery was delayed.",2,1,0
+30,"The pizza was okay, and the delivery was a bit late.",3,3,0
+31,"Terrible salad, delivered delayed.",2,2,0
+32,"The salad was okay, and the delivery was acceptable.",3,4,1
+33,"The burger was soggy, and the delivery was delayed.",1,2,0
+34,"Amazing salad, delivered on time!",5,5,1
+35,"The sushi was okay, but the delivery was a bit late.",4,4,0
+36,"Amazing pasta, delivered early!",5,5,1
+37,"The pasta was perfect, and it arrived on time.",4,4,0
+38,"The burger was tasty, and it arrived early.",4,4,0
+39,"I loved the salad, and the delivery was on time.",5,5,0
+40,"I hated the salad, and the delivery was cold.",1,1,0
+41,"The salad was soggy, and the delivery was cold.",1,2,0
+42,"I loved the sushi, and the delivery was early.",4,5,1
+43,"I hated the sushi, and the delivery was late.",2,1,1
+44,"Terrible burger, delivered cold.",2,2,0
+45,"I loved the burger, and the delivery was early.",5,5,1
+46,The pasta was average. The delivery could have been better.,3,3,1
+47,"I loved the burger, and the delivery was early.",4,5,1
+48,"I loved the pizza, and the delivery was fast.",5,5,1
+49,"The sushi was cold, and the delivery was late.",1,2,1
+50,"I loved the pasta, and the delivery was fast.",4,5,1
+51,"Amazing pizza, delivered fast!",5,4,0
+52,The burger was average. The delivery could have been better.,4,4,0
+53,"The pasta was okay, and the delivery was acceptable.",4,4,1
+54,"I loved the burger, and the delivery was early.",5,5,0
+55,"The pasta was tasty, and it arrived fast.",5,4,0
+56,"The pasta was perfect, and it arrived fast.",5,4,1
+57,"The salad was amazing, and it arrived fast.",5,5,0
+58,"The salad was delicious, and it arrived fast.",4,5,1
+59,"Amazing salad, delivered fast!",4,5,1
+60,"The burger was cold, and the delivery was delayed.",2,1,0
+61,"The pizza was cold, and the delivery was delayed.",2,2,0
+62,"Amazing salad, delivered fast!",4,4,0
+63,"The sushi was okay, but the delivery was slightly delayed.",4,4,0
+64,"The salad was tasty, and it arrived fast.",4,5,0
+65,"The pizza was overcooked, and the delivery was delayed.",1,2,1
+66,"Amazing pizza, delivered early!",4,5,1
+67,"Amazing burger, delivered early!",4,5,0
+68,"The burger was okay, and the delivery was acceptable.",4,3,1
+69,"The burger was okay, and the delivery was acceptable.",3,3,1
+70,"The burger was bland, and the delivery was late.",2,2,1
+71,"Terrible burger, delivered cold.",2,1,1
+72,"The salad was average, but the delivery was slightly delayed.",3,3,1
+73,"The sushi was overcooked, and the delivery was late.",2,1,0
+74,"Amazing sushi, delivered on time!",5,5,1
+75,"I loved the pizza, and the delivery was early.",5,5,0
+76,"I hated the pizza, and the delivery was delayed.",1,1,1
+77,"I hated the pasta, and the delivery was delayed.",2,2,1
+78,"I loved the pizza, and the delivery was early.",4,5,0
+79,"I hated the salad, and the delivery was cold.",1,1,1
+80,"The salad was cold, and the delivery was cold.",2,2,0
+81,"I loved the pasta, and the delivery was early.",5,5,0
+82,The pizza was average. The delivery could have been better.,3,3,0
+83,"I loved the salad, and the delivery was on time.",5,4,0
+84,"Terrible burger, delivered cold.",1,2,0
+85,"The pasta was perfect, and it arrived on time.",4,4,1
+86,"Amazing pizza, delivered fast!",4,5,0
+87,"The burger was tasty, and it arrived on time.",4,4,1
+88,"I loved the salad, and the delivery was early.",4,4,0
+89,"The sushi was overcooked, and the delivery was delayed.",1,2,1
+90,"I loved the sushi, and the delivery was early.",4,5,1
+91,"Amazing pasta, delivered early!",5,4,1
+92,"I hated the burger, and the delivery was delayed.",2,1,0
+93,"Terrible sushi, delivered late.",1,1,1
+94,"I hated the pasta, and the delivery was delayed.",1,1,1
+95,"The salad was bland, and the delivery was delayed.",2,2,0
+96,"The pizza was cold, and the delivery was late.",1,2,0
+97,"I loved the pasta, and the delivery was on time.",4,5,1
+98,The pizza was acceptable. The delivery could have been better.,4,4,1
+99,"The pizza was tasty, and it arrived fast.",5,4,1
+100,"The sushi was cold, and the delivery was cold.",2,2,0
+101,"The pasta was soggy, and the delivery was cold.",1,2,0
+102,"The salad was amazing, and it arrived early.",5,4,1
+103,"The sushi was acceptable, but the delivery was acceptable.",4,4,0
+104,"I hated the burger, and the delivery was late.",1,2,1
+105,"Amazing sushi, delivered on time!",5,5,1
+106,"The pizza was overcooked, and the delivery was delayed.",1,2,0
+107,"Terrible pasta, delivered late.",2,2,0
+108,"Terrible burger, delivered cold.",2,2,0
+109,"I loved the burger, and the delivery was fast.",5,5,0
+110,"Terrible burger, delivered cold.",1,2,1
+111,"The pizza was average, but the delivery was acceptable.",3,3,0
+112,"The salad was tasty, and it arrived on time.",5,5,0
+113,"The sushi was soggy, and the delivery was late.",1,1,0
+114,"I hated the pizza, and the delivery was late.",1,2,0
+115,"I loved the salad, and the delivery was on time.",5,4,0
+116,"The pizza was soggy, and the delivery was delayed.",2,1,1
+117,"I loved the pasta, and the delivery was early.",4,4,0
+118,"The burger was average, but the delivery was acceptable.",3,4,1
+119,"I hated the salad, and the delivery was delayed.",2,1,0

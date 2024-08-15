@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+joblib
+tensorflow
+transformers
+scikit-learn
